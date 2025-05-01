@@ -1,0 +1,12 @@
+##################################        Instructions for running webapp            ######################################
+Please make sure you have installed streamlit and python
+pip install streamlit torch torchvision pillow
+
+If you are using windows doubleclick run_app.bat file to run the program.
+
+else run "streamlit run app.py" on terminal.
+
+###### Please note #####
+.exe file would take a huge amount of space ~500 MB since we are using large libs for resnet18. Hence we made a smaller 
+web-application instead.
+
