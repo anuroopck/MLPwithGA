@@ -1,12 +1,12 @@
 # Project: Initialize the weights of a multilayer perceptron network using the genetic algorithm and classify a satellite image with the weight initialized neural network
 
-\\Team member 1: Anuroop C K-24M0327
-\\Team member 2: Rajash Bordoloi 24M0326
+<br> Team member 1: Anuroop C K-24M0327
+<br> Team member 2: Rajash Bordoloi 24M0326
 
-*Important Folders*
-\\GA_weight_initialisation: Contains code for generating weights for MLP
-\\webapp: Contains GUI
+<br> *Important Folders*
+<br> GA_weight_initialisation: Contains code for generating weights for MLP
+<br> webapp: Contains GUI
 
-\\Data used: EuroSAT
+<br>Data used: EuroSAT
 
-\\Folder also contains ppt showing results.
+<br>Folder also contains ppt showing results.
